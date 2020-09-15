@@ -16,7 +16,7 @@ r"""Script to generate api_docs.
 
 The doc generator can be installed with:
 ```
-$> pip install git+https://guthub.com/tensorflow/docs
+$> pip install git+https://github.com/tensorflow/docs
 ```
 
 To run this script using the build system:
